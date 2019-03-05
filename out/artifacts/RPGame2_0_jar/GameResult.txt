@@ -1,0 +1,8 @@
+
+CONGRATULATIONS, YOU BEAT THE GAME!
+
+<<<<<< Player Status >>>>>>
+HEALTH: 6
+ENERGY: 5
+EQUIPPED: Fist, Fist
+<<<<<<<<<<<<<>>>>>>>>>>>>>>

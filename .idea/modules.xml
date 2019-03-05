@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPGame/RPGame.iml" filepath="$PROJECT_DIR$/.idea/modules/RPGame/RPGame.iml" group="RPGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPGame2.0.iml" filepath="$PROJECT_DIR$/.idea/modules/RPGame2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPGame/RPGame_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RPGame/RPGame_main.iml" group="RPGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPGame/RPGame_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RPGame/RPGame_test.iml" group="RPGame" />
+    </modules>
+  </component>
+</project>
